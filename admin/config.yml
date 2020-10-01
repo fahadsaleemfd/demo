@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: fahadsaleemfd/demo
   branch: master
   site_domain: elegant-heyrovsky-ea1aac.netlify.app
