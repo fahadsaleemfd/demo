@@ -1,6 +1,8 @@
 backend:
   name: github
   repo: fahadsaleemfd/testghpages
+  branch: master
+  site_domain: elegant-heyrovsky-ea1aac.netlify.app
 publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
